@@ -19,6 +19,7 @@ body {
 }
 
 .links {
+    font-weight: 500;
     display: flex;
     padding-top: 10px;
     padding-bottom: 200px;
@@ -39,6 +40,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: #222222;
 }
 
 ul {
